@@ -1,25 +1,28 @@
 ---
 traduction: LoganTann
 check: LoganTann
-source: VorgunTheBeta
+source: VorgunTheBeta & jinzouacting
 clean: VorgunTheBeta
 typesetting: CloeItsumy
 ---
 
+## page 1
+
 HEYYYY
 
-Voici le sondage de popularité des Musiques Kagepro 2019
+Voici le sondage de popularité 2019 des musiques de Kagepro
 
-Il est temps d'annoncer les résultats
+Il est grand temps  
+d'annoncer les résultats
 
 YAY!
 
-Ils ont déjà été révélés sur les lieux de l'évènement [^1]
+Les résultats ont déjà été révélés sur les lieux du dernier évènement [^1]  
 [^1] : NDT : il a eu lieu lors du Mekakucity Seaside à Enoshima
 
-Grâce à un contrôle strict du partage d'informations, les membres n'ont pas été mis au courant !
+Mais grâce à un contrôle des infos, les membres du Dan ne les connaissent pas encore !
 
-HAHAHA~ c'est si drôle
+HAHAHA~ c'est si drôle, et pourtant tout le monde semble nerveux
 
 Un mot du Chef avant d'annoncer les résultats !
 
@@ -27,97 +30,95 @@ Chaque personne vit la musique de façon différente,
 
 Je ne sais pas à quoi m'attendre--...
 
-**page 2**
-
 Et nous y voilà. Passons à l'annonce de la 10ième place !
 
-La chanson la plus lumineuse pour commencer !
+## page 2
 
-Le classement de la principale chanson d'idole de Kagepro !
+Commençons par la chanson la plus lumineuse !
 
-10ième place : Otsukimi Recital
+La meilleure chanson de l'idole de Kagepro !
+
+En 10ième place, nous avons "Otsukimi Recital" !
 
 "C'était une chanson qui me donnait de l'énergie lorsque j'étais déprimé."
 
 "L'une des meilleures chansons apportant du soutien" etc...
 
-Cette chanson a reçu beaucoup de commentaires positifs !
+On a reçu beaucoup de commentaires positifs !
 
-Shintaro, son frère, a commenté "Otsukimi est la meilleure"
+Même son frère, Shintaro, a commenté "Otsukimi est la meilleure, j'ai pleuré"
 
 *Sueurs froides*
 
 eh-
 
-**page 3**
+## page 3
 
-C'est reparti !
+Kano : C'est reparti !  
+Vient ensuite la 9ième place !
 
-Vient ensuite la chanson de la 9ième place !
+La chanson représentant le mieux Kagerou Project !
 
-On peut dire que cette chanson représente Kagerou Project !
+"KAGEROU DAZE" !!
 
-KAGEROU DAZE!!
+Kano : Oh ? J'aperçois quelque chose sur la scène !
 
-Oh ? J'aperçois quelque chose sur la scène !
+Hibiya : HEY ! C'est ma seule chanson ! S'il te plaît !
 
-HEY ! C'est ma seule chanson ! S'il te plaît !
+Hiyori : Vraiment ?
 
-Vraiment ?
+Hibiya : N-Nous devions tous les deux représenter la chanson !
 
-C-C'est..... Un combat pour déterminer qui est en charge de la chanson !
-
-"L'origine et le top", "KagePro, c'est cette chanson"
-
-C'est le genre de commentaires qui ont été envoyés !
+Kano : "La meilleure chanson est son origine", "LA chanson de kagepro"  
+Est le genre de commentaires qui ont été envoyés !
 
 Avez-vous un message à faire passer ?
 
-Regardez les feux de circulation avant de traverser !
+Hiyori : Regardez les feux de circulation avant de traverser !
 
-Merci beaucoup !
+Kano : Merci beaucoup !
 
-**page 4**
+## page 4
 
-À présent, passons à l'annonce de la 8ième place !
+Kano : À présent  
+passons à l'annonce de la 8ième place !
 
-Cette chanson accompagnée d'un sentiment transparent a été classée... **(?)**
+Le classement de cette chanson est accompagnée de sentiments transparent ...
 
-8ième place : Toumei Answer
+En 8ième place : Toumei Answer
 
-Cette chanson est interprétée par le cœur du personnage principal, Shintaro !
+Kano : Cette chanson est interprétée par le cœur du personnage principal, Shintaro !
 
-"J'adore Shintaro", "Si précieux", "Les pensées désespérées de Shintaro y prennent vie", etc.
-
+"J'adore Shintaro", "Si précieux", "Les pensées désespérées de Shintaro y prennent vie", etc.  
 Jolis commentaires de la part de fans persistants !
 
-Un mot pour ces fans ayant voté !
+Kano : Un mot pour ces fans ayant voté !
 
-Uhh, je suis content
+Shintaro : Uhh ... je suis honoré ...
 
-Merci !
+Kano : Merci !
 
-**page 5**
+## page 5
 
-Ensuite, a 7ième place...
+Kano : Ensuite, a 7ième place...
 
-Oh ? Cette voix et mélodie de piano ne peut signifier qu'une chose...
+Kano : Oh ? Cette voix[^2] et mélodie de piano ne peut signifier qu'une chose...  
+[^2] : C'est la seule musique du classement à avoir été interprétée par Hastune Miku
 
 7ième place : Additional Memory
 
-"J'ai de nombreuses pensées à propos de Shintaro grâce à cette chanson"
+Kano : "J'ai de nombreuses pensées à propos de Shintaro grâce à cette chanson"
 
-"J'espère que le jour viendra où je transmettrai le message de ce morceau à ceux qui sont importants pour moi." **le message -> les sentiments**
+"J'espère ce jour où je transmettrai mes sentiments comme cette musique à ceux qui sont importants pour moi."
 
-"J'ai réalisé que j'étais une fille qui aime Ayano grâce à cette chanson."
+"J'ai réalisé que je suis tombé amoureuse d'Ayano grâce à cette musique"
 
-Stop...
-
-Merci...
+Ayano : Ahh Stop...  
+Vraiment, merci beaucoup ...
 
 Exactement ! Chanson suivante !
 
-**page 6**
+## page 6
 
 Il est l'heure maintenant d'annoncer la 6ième place...
 
@@ -143,7 +144,7 @@ Hey !! Un mot pour les fans qui te soutiennent !
 
 Je ferai de mon mieux...
 
-**page 7**
+## page 7
 
 Reprenons avec l'annonce de la 5ième place !
 
@@ -166,7 +167,7 @@ Nous ne pouvons contenir son excitation
 Félicitations !
 
 
-**page 8**
+## page 8
 
 La chanson suivante est la plus sombre de l'histoire de KagePro...
 
@@ -189,7 +190,7 @@ Que signifient les paroles "Au delà du ruban de Möbius" ? [^2]
 
 Aucune idée ! Merci !
 
-**page 9**
+## page 9
 
 Eh bien, ensuite
 
@@ -220,7 +221,7 @@ As-tu un message pour tes fans ?
 C'est YOBANASHI DECEIVE
 
 
-**page 10**
+## page 10
 
 Et la 2ième place va à...
 
@@ -249,7 +250,7 @@ Ha ha ha
 
 JE DEVAIS VRAIMENT VENIR POUR *ÇA* ?!?
 
-**page 11**
+## page 11
 OK OK OK
 
 Et maintenant le moment que vous avez tant attendu...
@@ -268,7 +269,7 @@ LA CHANSON NUMÉRO 1
 
 SUMMERTIME RECORD
 
-**page 12**
+## page 12
 
 Beau travail
 
@@ -300,7 +301,7 @@ Je me sens mal pour eux.
 
 Il serait normal d'en être un peu triste...
 
-**page 13**
+## page 13
 
 Seto, regarde, nos chansons sont classées !
 
