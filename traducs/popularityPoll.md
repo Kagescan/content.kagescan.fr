@@ -85,7 +85,7 @@ passons à l'annonce de la 8ième place !
 
 Le classement de cette chanson est accompagnée de sentiments transparent ...
 
-En 8ième place : Toumei Answer
+En 8ième place : "Toumei Answer"
 
 Kano : Cette chanson est interprétée par le cœur du personnage principal, Shintaro !
 
@@ -105,7 +105,7 @@ Kano : Ensuite, a 7ième place...
 Kano : Oh ? Cette voix[^2] et mélodie de piano ne peut signifier qu'une chose...  
 [^2] : C'est la seule musique du classement à avoir été interprétée par Hastune Miku
 
-7ième place : Additional Memory
+7ième place : "Additional Memory"
 
 Kano : "J'ai de nombreuses pensées à propos de Shintaro grâce à cette chanson"
 
@@ -120,23 +120,22 @@ Exactement ! Chanson suivante !
 
 ## page 6
 
-Il est l'heure maintenant d'annoncer la 6ième place...
+Kano : Il est l'heure maintenant d'annoncer la 6ième place...
 
-*Projecteur*
+sfx : sur le drone : *Projecteur*
 
-J'ai soudainement perdu Ene-chan !
+Kano : Oh ? J'ai soudainement perdu Ene-chan !  
+Ce qui veut dire~ !!
 
-Ce qui veut dire !!
+Kano : "Yuukei Yesterday" pour la 6ième place !!
 
-Yuukei Yesterday pour la 6ième place !!
+Kano : Beaucoup de fans ont dit : "L'amour timide de Takane pour Haruka est une chanson que j'aime tant."
 
-Beaucoup de fans ont dit : "L'amour timide de Takane-chan pour Haruka-kun est une chanson que j'aime tant."
+sfx : sur le papier : *Note*
 
-*Note*
+"Le côté féminin de Takane ressort de cette chanson !", etc.
 
-"Le côté féminin de Takane ressort de cette chanson !"
-
-Beaucoup de commentaires qui supportent ton amour !
+Beaucoup de commentaires qui supportent ton a~ mour !
 
 Arrête de me taquiner comme ça...
 
@@ -146,109 +145,101 @@ Je ferai de mon mieux...
 
 ## page 7
 
-Reprenons avec l'annonce de la 5ième place !
+Kano : Reprenons avec l'annonce de la 5ième place !
 
-Ce son ressemblant à celui d'un synthétiseur qui se fait entendre, pourrait-il être...?
+J'entends un son ressemblant à celui d'un synthétiseur, pourrait-ce être...?
 
-OUTER SCIENCE !!!
+Kano : Oui, c'est "OUTER SCIENCE" !!!
 
-"Quand tu l'écoutes, tu attrapes la chair de poule", "Son visage est ce qu'il y a de mieux", "Le désespoir est intenable", etc.
-
+Kano : "Quand tu l'écoutes, tu attrapes la chair de poule", "Son visage est ce qu'il y a de mieux", "Le désespoir est intenable" ...  
 Cette chanson a reçu un grand soutien des fans !
 
-Il semblerait que tu aies une expression satisfaite après avoir reçu ces commentaires...
+Kano : Il semble avoir une expression satisfaite après avoir reçu ces commentaires...  
+Hummm... Biennn...
 
-Hummm...
+Kano : C'est un personnage rare dont le nom *officiel* n'a pas encore été dévoilé
 
-C'est l'apparition d'un personnage rare dont le nom officiel n'a pas encore été dévoilé
-
-Nous ne pouvons contenir son excitation
-
+Kano : On dirait qu'il ne peut retenir son excitation  
 Félicitations !
 
 
 ## page 8
 
-La chanson suivante est la plus sombre de l'histoire de KagePro...
+Kano : Maintenant que nous avons fait la chanson la plus sombre de l'histoire de la série...
 
-En 4ième place, on retrouve notre chanson-thème !
+Voyons la numéro 4 ! On retrouve la chanson *thème* de Kagerou Project !
 
-CHILDREN RECORD
+Kano : En 4ième place, "CHILDREN RECORD" !
 
-"Je n'oublierai jamais le choc ressenti à la première écoute, même à présent que j'ai grandi."
-
+Kano : "Je suis adule aujourd'hui et je n'ai toujours pas oublié ce choc ressenti à ma première écoute"  
 "Elle me donne du courage" "J'ai l'impression que l'été commence lorsque j'entends cette chanson"
 
-Wow, merci pour vos commentaires passionnés !
-
+Kano : Wow, merci pour vos commentaires passionnés !  
 Au nom du Mekakushi Dan, pourrais-tu dire quelques mots s'il te plaît, Chef ?
 
-Eh bien je me demandais...
+Kido : Eh bien je me demandais...  
+Que signifient les paroles "au-delà d'une boucle de Möbius" ? [^3]
+[^3] : Une partie de la dernière réplique des lyrics de Children Record.
 
-Que signifient les paroles "Au delà du ruban de Möbius" ? [^2]
-[^3] : dernières paroles de Children Record.
-
-Aucune idée ! Merci !
+Kano : Aucune idée ! Merci !
 
 ## page 9
 
-Eh bien, ensuite
+Ene : Eh bien, ensuite
 
 Ce résultat est aussi le commencement de la finale !!!
 
-Ces sonorités "bebop" qui émanent de la scène !
+Ene : Ces sonorités "bebop" qui émanent de la scène !
 
 Tout le monde le sait déjà ! La 3ième place revient à...
 
-HA HA HA
+Ene : HA HA HA
 
 "Oh My Dirty" !!!
 
-Humm, ce n'est pas le nom de la chanson
+Kano : Humm, ce n'est pas le nom de la chanson
 
-"Elle est trop cool", "J'ai tellement adoré la chanson de Kano"
+Ene : "Elle est trop cool", "J'ai tellement adoré la chanson de Kano"
 
 Beaucoup de commentaires enthousiastes !
 
-Je peux à peine croire qu'ils soient tous vrais...
+Kano : Non, c'est yoba--...
 
-"Je pourrais la chanter de nuit..."
+Ene : As-tu un message pour tes fans ?
 
-Hein ? C'était quoi ça ?
-
-As-tu un message pour tes fans ?
-
-C'est YOBANASHI DECEIVE
+Elle s'appelle "YOBANASHI DECEIVE"
 
 
 ## page 10
 
-Et la 2ième place va à...
+Kano : Il est temps d'annoncer la seconde place
 
-Une chanson dont jaillit des sentiments sincères !
+Kano : Une chanson dont jaillit des sentiments sincères !
 
-SECONDE PLACE
+Kano : SECONDE PLACE,
 
-LOST TIME MEMORY !!
+Kano : "LOST TIME MEMORY" !!
 
-...
+Shintaro/Ayano : ...
 
-Hum, me pardonnerez-vous un jour ?
+Kano : Hum, ils ne m'ont toujours pas pardonné ? [^4]  
+[^4] : En référence à 01:46 où Kano usurpait l'apparence d'Ayano pour humilier Shintaro.
 
-"Ce morceau contient presque toutes les facettes de Shintaro",
+
+Ene : "Ce morceau contient presque toutes les facettes de Shintaro",
 "Les pensées de Shintaro prennent vie"
 
-"Shintaro est sexy" etc.
+"Shintaro est sexy", et--...
 
-HAHAHA il y a vraiment des gens qui vous aiment Maître
+Shintaro : Personne ne va me pardonner
 
-Je suis sérieux, vas-tu me pardonner, sis? (**sœurette ?**)
+Ene : Allez, dis quelque-chose !
 
-Un mot de la part de mon Maître !
+Shintaro : Ugh  
+uh  
+Ugh...
 
-Ha ha ha
-
-JE DEVAIS VRAIMENT VENIR POUR *ÇA* ?!?
+Ayano : JE DEVAIS VRAIMENT VENIR POUR *ÇA* ?!?
 
 ## page 11
 OK OK OK
